@@ -1,4 +1,4 @@
-## Spam-Text-Classification
+## Spam Text Classification
 - Spam Text Classification using Machine Learning Models
 ## Multi-Label Text Classification
 - `stackoverflow.csv` dataset is used, which can be found via link: https://raw.githubusercontent.com/laxmimerit/All-CSV-ML-Data-Files-Download/master/stackoverflow.csv
